@@ -1,1 +1,6 @@
-# PokemonGo_friends/n
+# PokemonGo_friends
+
+## Requirements
+
+* Selenium
+
